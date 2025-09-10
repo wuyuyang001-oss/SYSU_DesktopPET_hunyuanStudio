@@ -1,6 +1,6 @@
 # 逸小仙桌宠系统
 
-> 基于Tauri框架开发的智能桌面宠物应用，结合A2A模式后端架构的校园助手系统
+> 基于Tauri框架开发的智能桌面宠物应用，结合腾讯云智能体搭建平台设计A2A模式后端架构的校园助手（涵盖学生端和教职端）系统
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Tauri](https://img.shields.io/badge/Tauri-2.8.0-purple.svg)](https://tauri.app/)
